@@ -78,7 +78,7 @@ fact_bowling_summary:
 - Poor data modeling affects the over all performance of the report.
 - Following Good practices of data modeling is must. 
 - In this project, we have followed Snowfall data modeling method.
-  <img src="https://github.com/dikshabaranwal/IPL-Match-Analysis/main/datamodel.png"class="center">
+     <img src="datamodal.png" class="center">
   
 
 
