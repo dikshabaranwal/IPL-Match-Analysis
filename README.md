@@ -97,11 +97,15 @@ fact_bowling_summary:
  - Total runs
  - Strike rate
   <img src="batting analysis.png" class="center">
+  
 ## Bowling Analysis
 - Top 10 bowler
 - Total wickets
 - Economy
   <img src="bowling analysis.png" class="center">
+
+## Project Outcome
+By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
      
   
 
