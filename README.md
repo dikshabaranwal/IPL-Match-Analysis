@@ -78,7 +78,31 @@ fact_bowling_summary:
 - Poor data modeling affects the over all performance of the report.
 - Following Good practices of data modeling is must. 
 - In this project, we have followed Snowfall data modeling method.
-     <img src="datamodal.png" class="center">
+     <img src="datamodel.png" class="center">
+
+  ## Home View
+  - Team performance
+  - Batting analysis
+  - Bowling Analysis
+    <img src="home.png" class="center">
+
+ ## Team Performance
+    - Best team analysis
+    - Best batter
+    - best bowler
+  <img src="teamperformance.png" class="center">
+      
+ ##  Batting Analysis
+ - Top 10 batsman
+ - Total runs
+ - Strike rate
+  <img src="batting.png" class="center">
+## Bowling Analysis
+- Top 10 bowler
+- Total wickets
+- Economy
+  <img src="bowling.png" class="center">
+     
   
 
 
