@@ -73,4 +73,13 @@ fact_bowling_summary:
 - wides: The number of wide balls bowled.
 - noBalls: The number of no balls bowled.
 
+  ## Data Model
+- Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
+- Poor data modeling affects the over all performance of the report.
+- Following Good practices of data modeling is must. 
+- In this project, we have followed Snowfall data modeling method.
+  <img src="https://github.com/dikshabaranwal/IPL-Match-Analysis/main/datamodel.png"class="center">
+  
+
+
 
