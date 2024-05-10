@@ -90,18 +90,18 @@ fact_bowling_summary:
     - Best team analysis
     - Best batter
     - best bowler
-  <img src="teamperformance.png" class="center">
+  <img src="team performance.png" class="center">
       
  ##  Batting Analysis
  - Top 10 batsman
  - Total runs
  - Strike rate
-  <img src="batting.png" class="center">
+  <img src="batting analysis.png" class="center">
 ## Bowling Analysis
 - Top 10 bowler
 - Total wickets
 - Economy
-  <img src="bowling.png" class="center">
+  <img src="bowling analysis.png" class="center">
      
   
 
